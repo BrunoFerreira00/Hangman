@@ -1,3 +1,5 @@
 ## Hangman
 
-Basic hangman game made in kotlin withouth a display of the game
+Basic hangman game made in kotlin without a display of the game
+
+(Both .txt are dictionaries from each language)
